@@ -4,8 +4,9 @@ public class AbstractClass1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		add a = new add();
-		a.calculate();
+		Add add = new Add();
+			add.calculate();	
+	
 		
 
 	}
